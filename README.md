@@ -10,9 +10,9 @@ sudo apt update
 sudo apt install -y build-essential kmod 
 ```
 
-## **Get source**
+## **Get sources**
 ```bash
-git clone https://your-repo/device-mapper-proxy.git
+git clone https://mip3x/device-mapper-proxy.git
 cd device-mapper-proxy
 ```
 
